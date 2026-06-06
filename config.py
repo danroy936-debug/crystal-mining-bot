@@ -1,0 +1,5 @@
+BOT_TOKEN = "PASTE_TOKEN_HERE"
+MONETAG_LINK = "https://go.monetag.com/XXXX"
+
+CRYSTAL_PER_AD = 1.0
+AD_COOLDOWN = 300
